@@ -1,4 +1,4 @@
-# CryptoProject Secure files transmission app
+# Secure files transmission app
 
 This repository is an implementation of Secure files transmission app
 
